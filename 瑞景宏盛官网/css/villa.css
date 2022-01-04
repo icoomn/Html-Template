@@ -1,0 +1,59 @@
+.section1 {
+    margin-top: 100px;
+    width: 1200px;
+    margin: 100px auto 0 auto;
+}
+.title-box-1 {
+    margin: 80px auto 0 auto;
+    width: 842px;
+    height: 160px;
+}
+.section1-desc {
+    width: 1200px;
+    margin: 40px auto;
+}
+.txt, .img {
+    float: left;
+}
+.txt {
+    background-color: #FCFCFC;
+    color: #666;
+    width: 560px;
+    height: 260px;
+    padding: 120px 20px 20px 20px;
+    line-height: 30px;
+}
+.img {
+    width: 600px;
+    height: 400px;
+}
+.section2 {
+    margin-top: 100px;
+    width: 1200px;
+    margin: 100px auto 0 auto;
+}
+.title-box-2 {
+    margin: 80px auto 0 auto;
+    width: 843px;
+    height: 156px;
+}
+.section2-desc {
+    margin-top:60px;
+    background-color: #FCFCFC;
+    padding: 20px 20px 1px 20px;
+}
+.tag {
+    width: 150px;
+    text-align: center;
+    padding: 10px;
+    background-color: #232d4d;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.tag-txt {
+    font-size: 16px;
+    margin-bottom: 40px;
+    line-height: 25px;
+    color: #666;
+    padding-left: 20px;
+}

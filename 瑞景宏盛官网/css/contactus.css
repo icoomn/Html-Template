@@ -1,0 +1,65 @@
+.section {
+    margin-top: 50px;
+    text-align: center;
+}
+.title-box {
+    width: 400px;
+    margin: 0 auto;
+}
+.english {
+    font-size: 40px;
+    letter-spacing: 5px;
+    color: #232d4d;
+}
+.chinese {
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+    letter-spacing: 3px;
+    color: #232d4d;
+}
+.line {
+    display: inline-block;
+    height: 2px;
+    width: 30px;
+    background-color: #232d4d;
+}
+.content {
+    width: 1200px;
+    margin: 30px auto 0 auto;
+    background: #fff;
+}
+.map {
+    width: 100%;
+    height: 500px;  
+}
+.feedback-table {
+    width: 100%;
+    border: 1px solid #666;
+    border-collapse: collapse;
+}
+.feedback-table tr td {
+    border: 1px solid #666;
+    height: 50px;
+}
+.feedback-table tr td.tip {
+    color: #999;
+}
+.feedback-table tr td.label {
+    width: 100px;
+}
+.feedback-table tr td input,  .feedback-table tr td textarea{
+    width: 95%;
+    height: 95%;
+}
+.btn-commit {
+    margin-top: 20px;
+    width: 150px;
+    padding: 10px 10px;
+    color: #fff;
+    background-color: #232d4d;
+    cursor: pointer;
+}
+.btn-commit:hover {
+    background-color: #33498a;
+}

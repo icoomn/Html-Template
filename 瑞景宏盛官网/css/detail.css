@@ -1,0 +1,28 @@
+.section {
+    margin-top: 100px;
+    width: 1200px;
+    margin: 100px auto 0 auto;
+}
+.title {
+    margin: 80px auto 0 auto;
+    text-align: center;
+    font-size: 30px;
+    color: #666;
+}
+.datetime {
+  color: #999;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #ddd;
+}
+.content {
+  padding-top: 20px;
+}
+.content p {
+  line-height: 35px;
+  text-indent: 2em;
+  color: #666;
+  margin-bottom: 15px;
+}
